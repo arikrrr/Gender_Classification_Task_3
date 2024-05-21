@@ -13,6 +13,12 @@ I downloaded a dataset from kaggle having $ \approx $ $2000$ images. But those w
 2. Used image_height = image_width = 200
 3. Used VGG16 as base model(freezed) and added MaxPool then a 128 sized Dense layer with softmax activation. Then unfreezed the base model and fine-tuned the model</br>
 
+<br><br>ROAD-BLOCKS FACED</br>
+1. <u>Un-labelled dataset</u> : Labelled them manually using help from the Net.
+2. <u>Got very less number of models</u> : Used Data augmentation.
+3. <u>Images were not of same size</u> : Data processing ro resize them to $200$ x $200$ pixels.
+
+
 <br><br>HOW TO RUN THE CODE</br>
 1. Download the files in repository.
 2. There is a jupyter notebook named $ Use\_trained\_model.ipynb $.
