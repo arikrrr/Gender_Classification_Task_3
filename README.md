@@ -2,6 +2,8 @@
 
 Link to Google Drive : https://drive.google.com/drive/folders/1UbfelXXSTd9ikeNDut49V7nfPONpTUc5?usp=drive_link
 
+### I could not upload files due to upload limit. Link to google drive for code and model : https://drive.google.com/drive/folders/1ZUqndWb1evjDuYN4jZgAoptWG1vdojQp?usp=drive_link
+
 
 <br>FIRST<br> I found a data set on kaggle with $ \approx $ $23000$ labelled images.
 <br> For example : </br>
