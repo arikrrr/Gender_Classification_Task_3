@@ -7,7 +7,7 @@ Link to Google Drive : https://drive.google.com/drive/folders/1UbfelXXSTd9ikeNDu
 
 <br>FIRST<br> I found a data set on kaggle with $ \approx $ $23000$ labelled images.
 <br> For example : </br>
-[![090544-jpg.jpg](https://i.postimg.cc/26VN2DTJ/090544-jpg.jpg)](https://postimg.cc/cgyzLPpM)
+[090544-jpg.jpg](https://postimg.cc/cgyzLPpM)
 <br> The mask roughly covers half of the image and I t was the case for all other images too. So I thought of cropping the image in half and training the whole dataset.<br>
 Now for the validation part I needed masked faces, so I needed to make datasets which was hectic. So, I dropped this dataset.
 But I think this will work if we provided masked faces provided mask covers half of the image from bottom.
